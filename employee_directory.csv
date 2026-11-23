@@ -1,0 +1,17 @@
+EmployeeID,EmployeeName,Email,DepartmentID,JobTitle,HireDate,CountryCode,EmploymentType,IsActive
+101,Alice Johnson,alice.johnson@converse.com,1,Manager,01-01-2020,US,FTE,TRUE
+102,Bob Smith,bob.smith@converse.com,1,Manager,01-02-2021,US,FTE,TRUE
+103,Carla Diaz,carla.diaz@converse.com,1,Manager,01-03-2022,GB,FTE,TRUE
+104,Dan Lee,dan.lee@converse.com,1,Manager,01-04-2023,IN,FTE,TRUE
+105,Elena Ruiz,elena.ruiz@converse.com,2,Manager,01-05-2020,BR,FTE,TRUE
+106,Frank Wu,frank.wu@converse.com,2,Associate,01-06-2021,US,FTE,TRUE
+107,Grace Kim,grace.kim@converse.com,3,Associate,01-07-2022,US,FTE,TRUE
+108,Hassan Ali,hassan.ali@converse.com,3,Associate,01-08-2023,AE,FTE,TRUE
+109,Ivan Petrov,ivan.petrov@converse.com,4,Associate,01-09-2020,DE,FTE,TRUE
+110,Juhi Sharma,juhi.sharma@converse.com,4,Associate,01-10-2021,IN,FTE,TRUE
+111,Karl Olsen,karl.olsen@converse.com,5,Associate,01-11-2022,GB,FTE,TRUE
+112,Lena Costa,lena.costa@converse.com,5,Associate,01-12-2023,BR,FTE,TRUE
+113,Aarav Mehta,aarav.mehta@converse.com,6,Associate,19-10-2019,IN,FTE,TRUE
+114,Sophie Laurent,sophie.laurent@converse.com,7,Manager,13-09-2018,FR,FTE,TRUE
+115,Liam O'Connor,liam.oconnor@converse.com,7,Associate,05-10-2021,GB,FTE,TRUE
+116,Mia Schneider,mia.schneider@converse.com,8,Manager,24-03-2020,DE,FTE,TRUE
